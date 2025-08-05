@@ -55,7 +55,7 @@ This project aims to classify heart disease severity into five categories—**No
 
 ## 🏆 Results
 
-- Achieved **85%+ accuracy** with DNN
+- Achieved **91%+ accuracy** with DNN
 - Improved interpretability using feature importance and cross-validation
 
 ## 📌 Author
